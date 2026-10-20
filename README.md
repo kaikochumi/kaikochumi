@@ -8,17 +8,35 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=reverse+engineer+%2F+cheat+developer;kernel-mode+%7C+Windows+x86-64;EAC+%C2%B7+BE+%C2%B7+Vanguard+%C2%B7+custom+AC;game+engine+internals+%7C+Unreal+%2F+Unity+IL2CPP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=reverse+engineer+%2F+cheat+developer;kernel-mode+%7C+Windows+x86-64;EAC+%C2%B7+BE+%C2%B7+Vanguard+%C2%B7+custom+AC;game+engine+internals+%7C+Unreal+%2F+Unity+IL2CPP)](https://git.io/typing-svg)
 
 <br/>
 
 [![followers](https://img.shields.io/github/followers/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi?tab=followers)
 &nbsp;&nbsp;
+[![stars](https://img.shields.io/github/stars/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
+&nbsp;&nbsp;
 [![last commit](https://img.shields.io/github/last-commit/kaikochumi/kaikochumi?style=flat-square&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
 &nbsp;&nbsp;
+[![commit activity](https://img.shields.io/github/commit-activity/m/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
+&nbsp;&nbsp;
+[![contributors](https://img.shields.io/github/contributors/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi/graphs/contributors)
+
+<br/>
+
 ![](https://img.shields.io/badge/reverse%20engineer-58a6ff?style=flat-square&labelColor=0d1117)
 &nbsp;&nbsp;
 ![](https://img.shields.io/badge/x86--64-58a6ff?style=flat-square&labelColor=0d1117)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/windows-58a6ff?style=flat-square&logo=windows&labelColor=0d1117)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/kernel%20mode-58a6ff?style=flat-square&labelColor=0d1117)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/profile%20since%202026-58a6ff?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+[![snake](https://github.com/kaikochumi/kaikochumi/actions/workflows/snake.yml/badge.svg)](https://github.com/kaikochumi/kaikochumi/actions/workflows/snake.yml)
 
 </div>
 
@@ -43,7 +61,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=55&text=languages&fontSize=26&fontColor=58a6ff" width="100%" alt="languages"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=languages&fontSize=26&fontColor=58a6ff" width="100%" alt="languages"/>
 
 <br/>
 
@@ -61,7 +79,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=55&text=tools&fontSize=26&fontColor=58a6ff" width="100%" alt="tools"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=tools&fontSize=26&fontColor=58a6ff" width="100%" alt="tools"/>
 
 <br/>
 
@@ -83,7 +101,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=55&text=focus&fontSize=26&fontColor=58a6ff" width="100%" alt="focus"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=focus&fontSize=26&fontColor=58a6ff" width="100%" alt="focus"/>
 
 <br/>
 
@@ -103,7 +121,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=55&text=stats&fontSize=26&fontColor=58a6ff" width="100%" alt="stats"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=stats&fontSize=26&fontColor=58a6ff" width="100%" alt="stats"/>
 
 <br/>
 
@@ -117,7 +135,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=55&text=contribution%20snake&fontSize=26&fontColor=58a6ff" width="100%" alt="snake"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=contribution%20snake&fontSize=26&fontColor=58a6ff" width="100%" alt="snake"/>
 
 <br/>
 
