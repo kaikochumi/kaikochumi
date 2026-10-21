@@ -159,4 +159,8 @@ no requests &nbsp;·&nbsp; no sales &nbsp;·&nbsp; no support
 &nbsp;
 ![](https://img.shields.io/badge/日本語も話せます-58a6ff?style=flat-square&labelColor=0d1117)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/kda.gif" alt="kda" width="540"/>
+
 </div>
