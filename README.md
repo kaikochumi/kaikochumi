@@ -1,48 +1,71 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/banner.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/banner.jpg" width="100%" alt="kaikochumi profile banner"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=90&text=kaikochumi&fontSize=44&fontColor=58a6ff&fontAlignY=40" width="100%" alt="kaikochumi"/>
+<!--
+  PALETA (tirada do banner)
+  rosa magenta  : e0509f   (cor principal)
+  orquídea      : cf52b4
+  roxo          : a45bd6
+  coral         : ff7a6b
+  fundo escuro  : 120a14 / 1c1122
+  tema claro    : b3267a (principal) · 7b2fa8 (secundária)
+
+  EFEITOS
+  - assets/divider.svg : divisor animado (brilho que varre a linha). Suba o arquivo para a pasta assets do repositório.
+  - linha de "console" com texto digitado logo abaixo dos badges.
+
+  ⟨ NOME ⟩ — troque a fonte mudando o valor de font=...
+  Opções goth/femininas: Cinzel+Decorative (atual) · Grenze+Gotisch · Jim+Nightshade · Almendra+Display · Pirata+One · UnifrakturCook · New+Rocker
+  Opções tech: Orbitron · Audiowide · Share+Tech+Mono · Press+Start+2P · Rajdhani · Michroma
+  Para trocar o texto do nome, edite lines=kaikochumi nas duas URLs abaixo (escuro e claro).
+-->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=46&letterSpacing=6px&duration=3200&pause=100000&repeat=false&color=B3267A&center=true&vCenter=true&width=720&height=90&lines=kaikochumi">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=46&letterSpacing=6px&duration=3200&pause=100000&repeat=false&color=E0509F&center=true&vCenter=true&width=720&height=90&lines=kaikochumi" width="720" alt="kaikochumi"/>
+</picture>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=reverse+engineer+%2F+cheat+developer;kernel-mode+%7C+Windows+x86-64;EAC+%C2%B7+BE+%C2%B7+Vanguard+%C2%B7+custom+AC;game+engine+internals+%7C+Unreal+%2F+Unity+IL2CPP)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="60%" alt=""/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=2500&pause=1000&color=B3267A&center=true&vCenter=true&width=620&lines=reverse+engineer+%2F+cheat+developer;kernel-mode+%7C+Windows+x86-64;EAC+%C2%B7+BE+%C2%B7+Vanguard+%C2%B7+custom+AC;game+engine+internals+%7C+Unreal+%2F+Unity+IL2CPP">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=2500&pause=1000&color=E0509F&center=true&vCenter=true&width=620&lines=reverse+engineer+%2F+cheat+developer;kernel-mode+%7C+Windows+x86-64;EAC+%C2%B7+BE+%C2%B7+Vanguard+%C2%B7+custom+AC;game+engine+internals+%7C+Unreal+%2F+Unity+IL2CPP" alt="reverse engineer / cheat developer · kernel-mode, Windows x86-64 · EAC, BE, Vanguard, custom AC · game engine internals, Unreal / Unity IL2CPP"/>
+</picture>
 
 <br/>
 
-[![followers](https://img.shields.io/github/followers/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi?tab=followers)
-&nbsp;&nbsp;
-[![stars](https://img.shields.io/github/stars/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
-&nbsp;&nbsp;
-[![last commit](https://img.shields.io/github/last-commit/kaikochumi/kaikochumi?style=flat-square&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
-&nbsp;&nbsp;
-[![commit activity](https://img.shields.io/github/commit-activity/m/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi)
-&nbsp;&nbsp;
-[![contributors](https://img.shields.io/github/contributors/kaikochumi/kaikochumi?style=flat-square&logo=github&labelColor=0d1117&color=58a6ff)](https://github.com/kaikochumi/kaikochumi/graphs/contributors)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2800&pause=1200&color=7B2FA8&center=true&vCenter=true&width=520&height=24&lines=%3E+resolving+module+base...;%3E+walking+pointer+chain...;%3E+dumping+SDK+%28GObjects+%2F+GNames%29...;%3E+world-to-screen+ok;%3E+hooking+Present...">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2800&pause=1200&color=A45BD6&center=true&vCenter=true&width=520&height=24&lines=%3E+resolving+module+base...;%3E+walking+pointer+chain...;%3E+dumping+SDK+%28GObjects+%2F+GNames%29...;%3E+world-to-screen+ok;%3E+hooking+Present..." alt="console output: resolving module base, walking pointer chain, dumping SDK, world-to-screen, hooking Present"/>
+</picture>
+
+<br/><br/>
+
+[![followers](https://img.shields.io/github/followers/kaikochumi?style=flat-square&logo=github&labelColor=120a14&color=e0509f)](https://github.com/kaikochumi?tab=followers)
 
 <br/>
 
-![](https://img.shields.io/badge/reverse%20engineer-58a6ff?style=flat-square&labelColor=0d1117)
+![reverse engineer](https://img.shields.io/badge/reverse%20engineer-e0509f?style=flat-square&labelColor=120a14)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/x86--64-58a6ff?style=flat-square&labelColor=0d1117)
+![x86-64](https://img.shields.io/badge/x86--64-cf52b4?style=flat-square&labelColor=120a14)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/windows-58a6ff?style=flat-square&logo=windows&labelColor=0d1117)
+![windows](https://img.shields.io/badge/windows-bb54c8?style=flat-square&logo=windows&labelColor=120a14)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/kernel%20mode-58a6ff?style=flat-square&labelColor=0d1117)
+![kernel mode](https://img.shields.io/badge/kernel%20mode-a45bd6?style=flat-square&labelColor=120a14)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/profile%20since%202026-58a6ff?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-[![snake](https://github.com/kaikochumi/kaikochumi/actions/workflows/snake.yml/badge.svg)](https://github.com/kaikochumi/kaikochumi/actions/workflows/snake.yml)
+![profile since 2026](https://img.shields.io/badge/profile%20since%202026-ff7a6b?style=flat-square&labelColor=120a14)
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -59,51 +82,46 @@
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=languages&fontSize=26&fontColor=58a6ff" width="100%" alt="languages"/>
+<h2 align="center">languages</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,rust,python&theme=dark" alt="C++, C, Rust and Python icons" />
 
 <br/>
 
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,rust,python&theme=dark" /></a>
-
-</div>
-
-<div align="center">
 <sub>+ x86-64 Assembly — shellcode, hooks, manual patches</sub>
+
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=tools&fontSize=26&fontColor=58a6ff" width="100%" alt="tools"/>
-
-<br/>
+<h2 align="center">tools</h2>
 
 <div align="center">
 
 | | |
 |:---|:---|
-| **IDA Pro** | primary disassembler — pseudocode, xrefs, SDK gen |
-| **Ghidra** | secondary RE, Java/Python scripting API |
-| **x64dbg** | dynamic analysis, conditional BPs, tracing |
-| **Cheat Engine + ReClass.NET** | memory scanning, pointer chains, live struct reconstruction |
-| **WinDbg / KD** | kernel debugging, crash dump analysis |
-| **Frida** | dynamic instrumentation without a driver |
-| **System Informer** | handle inspection, process internals, callbacks |
+| **static** | **IDA Pro** — primary disassembler, pseudocode, xrefs, SDK gen<br/>**Ghidra** — second opinion, Java/Python scripting API |
+| **dynamic** | **x64dbg** — conditional BPs, tracing<br/>**WinDbg / KD** — kernel debugging, crash dump analysis<br/>**Frida** — instrumentation without a driver |
+| **memory** | **Cheat Engine + ReClass.NET** — scanning, pointer chains, live struct reconstruction<br/>**System Informer** — handles, process internals, callbacks |
+| **network / mitm** | **Wireshark** — captures, protocol dissection<br/>**mitmproxy** — HTTP(S) and WebSocket interception, scriptable<br/>**Fiddler** — session inspection and replay<br/>**Scapy** — build and replay packets from Python |
+| **emulation / tracing** | **Unicorn / Qiling** — run a routine out of context<br/>**DynamoRIO / Intel PIN** — instruction-level tracing<br/>**Process Monitor / API Monitor** — file, registry and API activity |
+| **unreal** | **UE4SS** — scripting and live inspection<br/>**Dumper-7** — SDK generation<br/>**FModel / UEViewer** — asset browsing |
+| **unity** | **dnSpy** — Mono games, edit and debug managed code<br/>**Il2CppDumper / Cpp2IL** — IL2CPP metadata<br/>**AssetStudio** — assets<br/>**BepInEx / MelonLoader** — plugin loaders |
+| **driver dev** | **Visual Studio + WDK** — build<br/>**VM + KD attached** — test without risking the host |
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=focus&fontSize=26&fontColor=58a6ff" width="100%" alt="focus"/>
-
-<br/>
+<h2 align="center">focus</h2>
 
 <div align="center">
 
@@ -119,35 +137,87 @@
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=stats&fontSize=26&fontColor=58a6ff" width="100%" alt="stats"/>
-
-<br/>
+<h2 align="center">field notes</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="stats" width="420"/>
+<sub>things that stay true across patches</sub>
+
+</div>
+
+```text
+[offsets]   offsets rot. signatures survive. a fixed rva only makes sense on a frozen build.
+[vtables]   never hardcode an index. resolve through RTTI, then diff against the previous build.
+[structs]   if a struct doesn't survive a game restart in ReClass, it was a guess, not a struct.
+[reading]   read the decompilation, not the dump. dumps lie about padding and alignment.
+
+[dxgi]      swapchain vtable: Present = 8, ResizeBuffers = 13. hook both or the overlay dies on resize.
+[unreal]    4.23 → FNamePool. 4.25 → FProperty replaces UProperty. 5.x → FVector is doubles.
+[unreal]    GObjects is chunked, not contiguous. walk the chunks. dump the SDK per build, never reuse one.
+[unity]     global-metadata.dat version decides everything. wrong dumper version = garbage names.
+[unity]     GameAssembly exports the il2cpp_* api. resolve through it at runtime before reaching for offsets.
+
+[network]   read the traffic before you read the binary. the protocol shows what the client is allowed to ask for.
+[network]   most packets are length + opcode + payload. find the dispatch table and the rest unrolls.
+[network]   the server is the authority. a client-side change only changes what the client believes.
+[mitm]      mitmproxy for HTTP and WebSocket. raw TCP or UDP means Wireshark plus a parser you write yourself.
+[emulation] stuck on a decrypt routine? emulate it in isolation instead of fighting it live.
+[tracing]   diff a trace of "did the action" against "didn't". it finds the code path faster than any static read.
+
+[kernel]    keep the IOCTL surface tiny. every extra dispatch is something you have to maintain.
+[kernel]    MmCopyVirtualMemory is the easy path. walking the page tables yourself is where you learn.
+[kernel]    test on a VM with KD attached. a bugcheck on your main machine teaches you once.
+```
+
+<div align="center">
+
+<sub>build loop &nbsp;·&nbsp; <code>attach → dump → diff vs last build → re-sig → verify in-game → freeze</code></sub>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:161b22&height=55&text=contribution%20snake&fontSize=26&fontColor=58a6ff" width="100%" alt="snake"/>
-
-<br/>
+<h2 align="center">stats</h2>
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/kaikochumi/kaikochumi/output/snake-dark.svg?palette=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=b3267a&icon_color=7b2fa8&text_color=3a2a3f&ring_color=b3267a">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=120a14&title_color=e0509f&icon_color=a45bd6&text_color=e8d5e8&ring_color=e0509f" alt="GitHub stats for kaikochumi: stars, commits, pull requests and issues" width="420"/>
+</picture>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
+
+<h2 align="center">contribution snake</h2>
+
+<!--
+  Para o snake acompanhar a paleta, no seu .github/workflows/snake.yml use:
+    with:
+      github_user_name: kaikochumi
+      outputs: |
+        dist/snake.svg?color_snake=b3267a&color_dots=ffffff,f3d0e6,e69bc8,cf52b4,a45bd6
+        dist/snake-dark.svg?palette=github-dark&color_snake=e0509f&color_dots=1c1122,4a1d40,7a2a68,b03f95,e0509f
+-->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaikochumi/kaikochumi/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/output/snake-dark.svg?palette=github-dark" alt="contribution graph animated as a snake eating the commits"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -155,12 +225,12 @@ no requests &nbsp;·&nbsp; no sales &nbsp;·&nbsp; no support
 
 <br/>
 
-![](https://img.shields.io/badge/she%2Fher-58a6ff?style=flat-square&labelColor=0d1117)
+![she/her](https://img.shields.io/badge/she%2Fher-e0509f?style=flat-square&labelColor=120a14)
 &nbsp;
-![](https://img.shields.io/badge/日本語も話せます-58a6ff?style=flat-square&labelColor=0d1117)
+![日本語も話せます](https://img.shields.io/badge/日本語も話せます-a45bd6?style=flat-square&labelColor=120a14)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/kda.gif" alt="kda" width="540"/>
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/kda.gif" alt="kda animation" width="540" loading="lazy"/>
 
 </div>
