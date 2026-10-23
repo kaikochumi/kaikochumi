@@ -93,18 +93,22 @@ Tool choice depends on the target and what I'm trying to find.
 
 <div align="center">
 
-**[SummerCamp ESP](https://github.com/kaikochumi/SummerCamp-ESP)** — External ESP for Friday the 13th: The Game (UE 4.18.3). Corner boxes · Skeletons · Health bars · Snaplines
+**[SummerCamp ESP](https://github.com/kaikochumi/SummerCamp-ESP)** — External ESP for *Friday the 13th: The Game* (Summer Camp build, UE 4.18.3).
+
+Corner boxes · Skeletons · Health bars · Snaplines
+
+Read-only · No injection · EN/JA
 
 <br/>
 
 ![release](https://img.shields.io/badge/release-v0.1.0-e0509f?style=flat-square&labelColor=120a14)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=120a14&color=e0509f)](https://github.com/kaikochumi/SummerCamp-ESP)
 [![Windows x64](https://img.shields.io/badge/Windows-x64?style=flat-square&logo=windows&logoColor=ffffff&labelColor=120a14&color=cf52b4)](https://github.com/kaikochumi/SummerCamp-ESP)
-[![MIT](https://img.shields.io/badge/license-MIT?style=flat-square&labelColor=120a14&color=a45bd6)](https://github.com/kaikochumi/SummerCamp-ESP/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/kaikochumi/SummerCamp-ESP?style=flat-square&labelColor=120a14&color=a45bd6)](https://github.com/kaikochumi/SummerCamp-ESP/blob/main/LICENSE)
 
 <br/>
 
-<sub>offsets mapped by hand, confirmed against the live build · screenshots, docs and releases inside</sub>
+<sub>Offsets mapped by hand · Build notes, screenshots and releases in the repo.</sub>
 
 </div>
 
