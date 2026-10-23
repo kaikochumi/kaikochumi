@@ -148,13 +148,13 @@ Read-only · No injection · EN/JA
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=b3267a&icon_color=7b2fa8&text_color=3a2a3f&ring_color=b3267a" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&hide_border=true&bg_color=120a14&title_color=e0509f&icon_color=a45bd6&text_color=e8d5e8&ring_color=e0509f" height="165" alt="GitHub activity stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=b3267a&icon_color=7b2fa8&text_color=3a2a3f&ring_color=b3267a&refresh=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaikochumi&show_icons=true&hide_border=true&bg_color=120a14&title_color=e0509f&icon_color=a45bd6&text_color=e8d5e8&ring_color=e0509f&refresh=1" height="165" alt="GitHub activity stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikochumi&layout=compact&hide_border=true&bg_color=ffffff&title_color=b3267a&text_color=3a2a3f" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikochumi&layout=compact&hide_border=true&bg_color=120a14&title_color=e0509f&text_color=e8d5e8" height="165" alt="Most used languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikochumi&layout=compact&hide_border=true&bg_color=ffffff&title_color=b3267a&text_color=3a2a3f&refresh=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikochumi&layout=compact&hide_border=true&bg_color=120a14&title_color=e0509f&text_color=e8d5e8&refresh=1" height="165" alt="Most used languages" />
 </picture>
 
 <br/><br/>
