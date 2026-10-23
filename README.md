@@ -93,7 +93,7 @@ Tool choice depends on the target and what I'm trying to find.
 
 <div align="center">
 
-**[SummerCamp ESP](https://github.com/kaikochumi/SummerCamp-ESP)** — external overlay for the *Friday the 13th* Summer Camp build (UE 4.18.3). corner boxes, skeletons, health bars, snaplines — read-only, no injection, EN/JA menu.
+**[SummerCamp ESP](https://github.com/kaikochumi/SummerCamp-ESP)** — External ESP for Friday the 13th: The Game (UE 4.18.3). Corner boxes · Skeletons · Health bars · Snaplines
 
 <br/>
 
