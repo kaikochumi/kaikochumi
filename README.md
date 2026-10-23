@@ -89,6 +89,31 @@ Tool choice depends on the target and what I'm trying to find.
 
 <img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt="" />
 
+## `featured project`
+
+<div align="center">
+
+[![SummerCamp ESP](https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/summercamp-esp.png)](https://github.com/kaikochumi/SummerCamp-ESP)
+
+**[SummerCamp ESP](https://github.com/kaikochumi/SummerCamp-ESP)** — external overlay for the *Friday the 13th* Summer Camp build (UE 4.18.3). corner boxes, skeletons, health bars, snaplines — read-only, no injection, EN/JA menu.
+
+<br/>
+
+[![release](https://img.shields.io/github/v/release/kaikochumi/SummerCamp-ESP?style=flat-square&label=release&labelColor=120a14&color=e0509f)](https://github.com/kaikochumi/SummerCamp-ESP/releases/latest)
+[![C++17](https://img.shields.io/badge/C%2B%2B-17?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=120a14&color=e0509f)](https://github.com/kaikochumi/SummerCamp-ESP)
+[![Windows x64](https://img.shields.io/badge/Windows-x64?style=flat-square&logo=windows&logoColor=ffffff&labelColor=120a14&color=cf52b4)](https://github.com/kaikochumi/SummerCamp-ESP)
+[![MIT](https://img.shields.io/badge/license-MIT?style=flat-square&labelColor=120a14&color=a45bd6)](https://github.com/kaikochumi/SummerCamp-ESP/blob/main/LICENSE)
+
+<br/>
+
+<sub>offsets mapped by hand, confirmed against the live build · screenshots, docs and releases inside</sub>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/kaikochumi/kaikochumi/main/assets/divider.svg" width="100%" alt="" />
+
 ## `field notes`
 
 <sub>Things I keep in mind while tracing a target.</sub>
