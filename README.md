@@ -2,8 +2,6 @@
 
 I'm a C++ developer from Korea, living in Otaru, Hokkaido. I spend my time in game internals: how Unity games load assets, and where they break. Reverse engineering and modding are how I learn most of it.
 
-I build [Meshport](https://github.com/kaikochumi/meshport), a browser extension that gets Tripo Studio models into Blender.
-
 ```yaml
 focus:     game internals, C++ tooling, modding
 location:  Otaru, Hokkaido, Japan (UTC+9)
