@@ -18,15 +18,12 @@ languages: Korean (native), Japanese (business), English (working)
 
 <div align="center">
 
-<img alt="Languages and tools" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,lua,unity,blender,bash,git,github,linux,vscode&theme=dark&perline=13" />
+<img alt="Core tools" src="https://skillicons.dev/icons?i=cpp,cs,unity,blender,git,linux&theme=dark&perline=6" />
 
 <br/>
 
-<img alt="CMake" src="https://img.shields.io/badge/CMake-0f2027?style=flat-square&logo=cmake&logoColor=white" />
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-0f2027?style=flat-square&logo=visualstudio&logoColor=white" />
-<img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-0f2027?style=flat-square&logo=ghidra&logoColor=white" />
-<img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-0f2027?style=flat-square&logo=x64dbg&logoColor=white" />
-<img alt="Cheat Engine" src="https://img.shields.io/badge/Cheat_Engine-0f2027?style=flat-square&logo=cheatengine&logoColor=white" />
+
+<br/>
 
 </div>
 
